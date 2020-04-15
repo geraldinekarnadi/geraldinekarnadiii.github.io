@@ -1,0 +1,261 @@
+ 
+@media (max-width: 768px) {
+
+
+#index {
+	background-size: auto 100%;
+	background-position: top center;
+	/*background: #dd0000;*/
+}
+
+
+/*
+.nav {
+	background: #dd0000;
+}
+*/
+/*  TESTING  */
+
+
+.logonav img {
+	width: 35vw;
+	height: auto;
+}
+
+
+
+.floating {
+	margin-top: 14%;
+	margin-right: 40px;
+	width: 30%;
+	float: right;
+	text-align: left;
+}
+.floating h1 {
+	font-size: 60px;
+	line-height: 60px;
+	color: #ffffff;
+}
+
+
+
+
+.page_details .kiri {
+	width: 100%;
+	margin-left: 5vw;
+}
+.page_details .kiri img {
+	float: left;
+		height: 50vw;
+
+}
+.page_dsc .kanan {
+/*	margin-left: 5vw;*/
+	width: 70vw;
+	float: left;
+	margin-top: 10vh;
+}
+
+.page_details .kanan {
+	clear: both;
+	margin-left: 5vw;
+	font-size: 15px;
+}
+.page_details .movie_title {
+	float: left;
+	font-size: 3em;
+}
+
+
+.page_synopsis .kiri {
+	width: 70vw;
+	margin-left: 5vw;
+}
+.page_synopsis .kanan {
+	width: 70vw;
+	margin-left: 5vw;
+	clear: both;
+	margin-top: 3vh;
+}
+
+.page_casts {
+	padding-right: 0;
+}
+
+.page_casts .kiri {
+	text-align: center;
+	width: 60vw;
+	margin-left: 10vw;
+
+}
+.page_casts .kanan {
+	width: 70vw;
+	margin-left: 5vw;
+	margin-bottom: 20vh;
+}
+
+.page_casts .page_title {
+	margin-top: 2vh;
+}
+.page_casts li {
+	width: 11vw;
+	height: 20vh;
+}
+.page_casts img {
+	width: 11vw;
+    height: 14vw;
+}
+
+#btn_actor_next {
+/*	height: 15vh;*/
+	font-size: 10vh;
+	line-height: 12vh;
+}
+
+
+
+
+
+
+/* PAGE LOCATIONS */
+.location_tabs {
+/*	height: 30vh;*/
+	height: 50vh;
+	color: #ffffff;
+}
+.location_tabs h1 {
+	font-family: espa;
+	float: left;
+	margin-left: 60vw;
+	font-size: 45px;
+	margin-top: 5vh;
+	margin-bottom: 1vh;
+}
+.location_tabs h2 {
+/*	clear: both;*/
+	float: left;
+	margin-left: 60vw;
+/*	font-family: Verdana;*/
+	font-size: 2em;
+}
+
+.location_buttons {
+	margin-left: 70vw;
+	clear: both;
+	margin-right: 0;
+	margin-top: 5vh;
+	float: left;
+	
+	
+
+	
+	
+	
+}
+#btn_more_italy {
+	float: left;
+}
+#btn_more_india {
+	float: right;
+	margin-right: 65vw;
+	margin-top: 5vh;
+}
+#btn_more_indonesia {
+	float: left;
+}
+#tab_india h1 {
+	margin-right: 65vw;
+}
+#tab_india h2 {
+	margin-right: 65vw;
+}
+
+
+#italy .page_top_image {
+	background-size: auto 100%;
+}
+#india .page_top_image {
+	background-size: auto 100%;
+}
+#indonesia .page_top_image {
+	background-size: auto 100%;
+}
+
+#colosseum .page_top_image {
+	background-size: auto 100%;
+}
+
+	
+.page_top_title {
+	color: #ffffff;
+	font-family: espa;
+	font-size: 70px;
+	bottom: 10vh;
+	right: 10vw;
+/*	display: table-cell;
+	vertical-align: bottom;*/
+	position: absolute;
+}
+	
+	
+.page_top_text {
+	background-color: #445543;
+	color: #ffffff;
+	font-size: 1em;
+	height: 50vh;
+/*	font-family: Verdana;*/
+ padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 8vh;
+
+}
+
+.page_thumbnail {
+	height: 430vh;
+	overflow: auto;
+}
+.thumbnails {
+	width: 100%;
+}
+.page_thumbnail h4 {
+	text-align: center;
+	width: 100%;
+}
+
+
+.page_qhh .kiri {
+	width: 70vw;
+	float: left;
+	margin-left: 5vw;
+/*	text-align: center;*/
+}
+
+.page_qhh img {
+	width: 50vw;
+	height: auto;
+}
+
+.page_qhh .kanan {
+	margin-left: 5vw;
+	width: 70vw;
+	float: left;
+	clear: both;
+}
+.page_quickfact .kanan {
+	text-align: center;
+}
+
+.page_history .kiri {
+	text-align: center;
+}
+.page_howtoget .kiri {
+	margin-left: 5vw;
+}
+.page_howtoget .kanan {
+	margin-left: 5vw;
+}
+
+
+
+
+}
